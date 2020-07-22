@@ -1,5 +1,5 @@
 {
-  "name": "dee-test",
+  "name": "one-screen",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -10,16 +10,7 @@
     "heroku-postbuild": "npm run build"
   },
   "browserslist": "> 0.25%, not dead",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/denristun/dee-test.git"
-  },
-  "author": "Denis Mehtahudinov <denristun@gmail.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/denristun/dee-test/issues"
-  },
-  "homepage": "https://github.com/denristun/dee-test#readme",
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
